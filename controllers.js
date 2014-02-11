@@ -1,5 +1,5 @@
 'use strict';
-
+var changed_new_line;
 var tech_city_media = angular.module('tech_city_media', []);
 
 
